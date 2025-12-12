@@ -1,5 +1,7 @@
 # Hi there 👋 I'm Fedor Shtab
 
+<img width="1480" height="833" alt="image" src="https://github.com/user-attachments/assets/08419c8a-a8b0-4dce-9fa9-c120dfbd0418" />
+
 **Passionate about building reliable systems and automating everything.**
 
 🌍 Based in **Galle, Sri Lanka**  
@@ -36,15 +38,6 @@ Here are some highlighted projects from my GitHub:
 - 🔹 **PYTHON-FASTAPI-PRODUCTION-TEMPLATE** — Production-ready FastAPI template
 
 *(Add more descriptions & links for each repo to show what they do 🌟)*
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fsh10&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fsh10&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
