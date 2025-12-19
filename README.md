@@ -52,7 +52,7 @@ Here are some highlighted projects from my GitHub:
 
 | LeetCode Stats | GitHub Stats |
 |----------------|--------------|
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/Fedor_S?theme=dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FedorShtab&show_icons=true&theme=dark) |
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/Fedor_S?theme=dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fsh10&show_icons=true&theme=dark) |
 
 
 ⭐ If you find my work useful, feel free to ⭐ *star* my repositories!
