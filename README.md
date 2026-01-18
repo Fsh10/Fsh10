@@ -5,31 +5,13 @@ Hi there 👋 I'm Fedor Shtab
 **Passionate about building reliable systems and automating everything.**
 
 🌍 Based in **Galle, Sri Lanka**  
-💻 Focused on **DevOps, Backend, Cloud-Native**, and Infrastructure Automation**
-
----
-
-## 🚀 About Me
-
-I’m a software engineer with a strong interest in:
-
-- 🛠️ **DevOps & Infrastructure as Code (IaC)**
-- 🐳 **Cloud-Native Tech:** Kubernetes, Helm
-- 🐍 **Python & Go** for scalable backend services and automation
-- ⚙️ Creating apps and tools that help teams ship faster
+💻 Focused on **Software Development**
 
 ---
 
 ## 🧰 Tech Stack!
 
-<img width="1135" height="278" alt="Снимок экрана 2026-01-18 в 06 36 45" src="https://github.com/user-attachments/assets/8bce073a-a383-42f1-bae5-f0b2430c3777" />
-
-<img width="1134" height="99" alt="Снимок экрана 2026-01-18 в 06 37 00" src="https://github.com/user-attachments/assets/d91caf57-1245-4b52-8f90-0dbc5cddeaea" />
-
-<img width="1132" height="188" alt="Снимок экрана 2026-01-18 в 06 37 10" src="https://github.com/user-attachments/assets/b660694f-eb6b-48fb-bc4b-1076c536119f" />
-
----
-
+[![My Skills](https://skillicons.dev/icons?i=go,python,postgres,docker,kafka,rabbitmq,kubernetes,ansible,git)](https://skillicons.dev)
 
 
 ---
@@ -41,4 +23,3 @@ I’m a software engineer with a strong interest in:
 
 ⭐ If you find my work useful, feel free to ⭐ *star* my repositories!
 
-<img width="1480" height="833" alt="image" src="https://github.com/user-attachments/assets/08419c8a-a8b0-4dce-9fa9-c120dfbd0418" />
