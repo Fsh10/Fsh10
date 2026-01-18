@@ -37,6 +37,6 @@ I’m a software engineer with a strong interest in:
 
 | LeetCode Stats | GitHub Stats |
 |----------------|--------------|
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/Fedor_S?theme=dark) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fsh10&show_icons=true&theme=dark&count_private=true)](https://github.com/fsh10)|
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/Fedor_S?theme=dark) | 
 
 ⭐ If you find my work useful, feel free to ⭐ *star* my repositories!
