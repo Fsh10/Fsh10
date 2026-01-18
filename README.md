@@ -30,13 +30,15 @@ I’m a software engineer with a strong interest in:
 
 ---
 
-<img width="1480" height="833" alt="image" src="https://github.com/user-attachments/assets/08419c8a-a8b0-4dce-9fa9-c120dfbd0418" />
+
 
 ---
 ## Stats
 
-| LeetCode Stats | GitHub Stats |
-|----------------|--------------|
+| LeetCode Stats |
+|----------------|
 | ![LeetCode Stats](https://leetcard.jacoblin.cool/Fedor_S?theme=dark) | 
 
 ⭐ If you find my work useful, feel free to ⭐ *star* my repositories!
+
+<img width="1480" height="833" alt="image" src="https://github.com/user-attachments/assets/08419c8a-a8b0-4dce-9fa9-c120dfbd0418" />
